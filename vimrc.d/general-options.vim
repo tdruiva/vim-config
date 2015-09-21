@@ -1,5 +1,3 @@
-colorscheme jellybeans
-
 filetype plugin indent on
 
 set autoindent

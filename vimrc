@@ -19,3 +19,7 @@ runtime vimrc.d/google-closure.vim
 runtime vimrc.d/nerdtree.vim
 runtime vimrc.d/projectionist.vim
 runtime vimrc.d/syntastic.vim
+
+set colorcolumn=90
+highlight ColorColumn ctermbg=white
+set list
