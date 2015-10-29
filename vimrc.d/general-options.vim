@@ -1,11 +1,15 @@
+colorscheme monokai
+
 filetype plugin indent on
+
+highlight ColorColumn ctermbg=white
 
 set autoindent
 set autoread
 set autowrite
 set autowriteall
 set backspace=indent,eol,start
-set colorcolumn=80
+set colorcolumn=90
 set conceallevel=1
 set cursorline
 set directory=~/.vim/swap//
@@ -34,6 +38,8 @@ set history=100
 set ignorecase
 set incsearch
 set laststatus=2
+set linebreak
+set list
 set lcs=eol:↩,trail:·,tab:»·
 set modelines=0
 set nowrap
