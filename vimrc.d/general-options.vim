@@ -9,7 +9,7 @@ set autoread
 set autowrite
 set autowriteall
 set backspace=indent,eol,start
-set colorcolumn=90
+set colorcolumn=79
 set conceallevel=1
 set cursorline
 set directory=~/.vim/swap//
@@ -42,7 +42,7 @@ set linebreak
 set list
 set lcs=eol:↩,trail:·,tab:»·
 set modelines=0
-set nowrap
+set wrap
 set number
 set regexpengine=1
 set ruler
