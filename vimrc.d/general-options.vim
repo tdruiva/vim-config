@@ -10,6 +10,7 @@ set autowrite
 set autowriteall
 set backspace=indent,eol,start
 set colorcolumn=79
+set textwidth=79
 set conceallevel=1
 set cursorline
 set directory=~/.vim/swap//
