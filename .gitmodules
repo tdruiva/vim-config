@@ -81,4 +81,4 @@
 	url = https://github.com/fatih/vim-go
 [submodule "bundle/vim-markdown-preview"]
 	path = bundle/vim-markdown-preview
-	url = https://github.com/JamshedVesuna/vim-markdown-preview.git
+	url = https://github.com/tdruiva/vim-markdown-preview.git
