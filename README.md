@@ -4,7 +4,7 @@ vim-config
 ## Setup
 
 Dependencies:
-* pip install markdown
+* gem install github-markup
 * pacman -S xdotool
 
 
