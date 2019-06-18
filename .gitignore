@@ -2,6 +2,7 @@
 *.swp
 swap
 undo
+tags
 
 vimrc.local
 gvimrc.local
