@@ -9,8 +9,6 @@ set autoread
 set autowrite
 set autowriteall
 set backspace=indent,eol,start
-set colorcolumn=79
-set textwidth=79
 set conceallevel=1
 set cursorline
 set directory=~/.vim/swap//
@@ -61,5 +59,6 @@ set visualbell
 set wildignore+=build,bower_components,node_modules,target,release,*.beam,*.so,*.swp,*.zip,*.iml,.idea,*.pyc,*.min.js,tags,pkg,bin,*.a,*.test
 set wildmenu
 set wildmode=list:longest
+set colorcolumn=79
 
 syntax on
