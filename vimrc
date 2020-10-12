@@ -19,4 +19,5 @@ runtime vimrc.d/google-closure.vim
 runtime vimrc.d/nerdtree.vim
 runtime vimrc.d/projectionist.vim
 runtime vimrc.d/syntastic.vim
+runtime vimrc.d/vdebug.vim
 runtime vimrc.d/vim-markdown-preview.vim
