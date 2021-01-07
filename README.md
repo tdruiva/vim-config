@@ -9,11 +9,8 @@ Dependencies:
 
 
 ```
-~ $ git clone https://github.com/tdruiva/vim-config.git ~/.vim
-~ $ cd ~/.vim
-~/.vim $ git submodule update --init
-~/.vim $ mkdir swap undo autoload
-curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+~ $ git clone --recursive https://github.com/tdruiva/vim-config.git ~/.vim
+~ $ cd ~/.vim && mkdir swap undo
 ```
 
 That's it.
