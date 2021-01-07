@@ -1,4 +1,5 @@
 syntax enable
+colorscheme solarized
 
 filetype plugin indent on
 
