@@ -1,4 +1,4 @@
-colorscheme monokai
+syntax enable
 
 filetype plugin indent on
 
@@ -8,6 +8,7 @@ set autoindent
 set autoread
 set autowrite
 set autowriteall
+set background=dark
 set backspace=indent,eol,start
 set conceallevel=1
 set cursorline
@@ -60,5 +61,3 @@ set wildignore+=build,bower_components,node_modules,target,release,*.beam,*.so,*
 set wildmenu
 set wildmode=list:longest
 set colorcolumn=79
-
-syntax on

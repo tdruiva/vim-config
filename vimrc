@@ -1,7 +1,6 @@
 set nocompatible
 
-runtime bundle/vim-pathogen/autoload/pathogen.vim
-call pathogen#infect()
+execute pathogen#infect()
 
 runtime ftplugin/man.vim
 
