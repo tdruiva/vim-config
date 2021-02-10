@@ -4,8 +4,7 @@ vim-config
 ## Setup
 
 Dependencies:
-*
-* apt install xdotool pandoc
+* apt install xdotool pandoc latexmk
 
 
 ```
