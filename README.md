@@ -4,8 +4,8 @@ vim-config
 ## Setup
 
 Dependencies:
-* gem install github-markup
-* apt install xdotool
+*
+* apt install xdotool pandoc
 
 
 ```
